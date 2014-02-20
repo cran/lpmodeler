@@ -1,0 +1,16 @@
+55334b84e2a83fbb719278b68c9be0fa *ChangeLog
+6fec7bc28c768f486ac7f1507beb4082 *DESCRIPTION
+36853b5dafc8a10f90106d01e7539bbe *LICENSE
+41505c1bf3f0459c51bf09671339f712 *NAMESPACE
+931630c5713300556924c9260c87fac0 *R/lpmodeler.R
+380ac34086a696f3e493084e303e4763 *R/solver-Rsymphony.R
+aff054d794ce711f314dc40e571940f0 *man/addConstraint.Rd
+8245f9800335fc98293c4d98f1d4c03c *man/addVariable.Rd
+836dea61903349a47cf96f0b588c7e26 *man/checkDims.Rd
+f771c913b7d416d9c0b339e373ce3007 *man/lpmodeler-package.Rd
+ccaa7726c7e09fba045ad1f016670bd0 *man/mipSolve.Rd
+77928ff2d832260451c90417d5528ad5 *man/newProblem.Rd
+bc10b6684bc21659465ce1ff846f20e3 *man/print.lpmodeler.Rd
+20da88e6447282148815645f56503936 *man/setCoeff.Rd
+859f61f5b06277b94bc0bb859dd1654a *man/setPoint.Rd
+dacf71bac7862deeba1aa13779acad08 *tests/tests.R

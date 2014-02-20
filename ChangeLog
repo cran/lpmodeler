@@ -1,0 +1,21 @@
+Revision 0.2-1 (2014-02-20):
+* first public release of the package
+
+Revision 0.2-0 (2014-02-18):
+* print.lpmodeler()
+* customizable problem type (max or min)
+* documentation (using roxygen2)
+
+Revision 0.1-2 (2013-11-24):
+* update to Rsymphony 0.1-17 (time_limit, gap_limit, node_limit,
+  first_feasible, verbosity, write_mps, write_lp)
+
+Revision 0.1-1 (2013-04-25):
+* speed improvement by using 'environment' instead of 'list'
+* checkDims()
+* update to Rsymphony 0.1-15
+
+Revision 0.1-0 (2012-06-05):
+* newProblem(), addVariable(), addConstraint(),
+  setCoeff(), setPoint()
+* mipSolve() with Rsymphony 0.1-14
